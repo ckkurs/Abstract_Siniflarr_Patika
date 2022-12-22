@@ -1,0 +1,16 @@
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.csproj.AssemblyReference.cache
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.AssemblyInfoInputs.cache
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.AssemblyInfo.cs
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.csproj.CoreCompileInputs.cache
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.exe
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.deps.json
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.runtimeconfig.json
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.runtimeconfig.dev.json
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.dll
+D:\C#\Abstract_Siniflar\bin\Debug\net5.0\Abstract_Siniflar.pdb
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.dll
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\refint\Abstract_Siniflar.dll
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.pdb
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\Abstract_Siniflar.genruntimeconfig.cache
+D:\C#\Abstract_Siniflar\obj\Debug\net5.0\ref\Abstract_Siniflar.dll
